@@ -2,8 +2,7 @@
 <img src="https://github.com/user-attachments/assets/99fde7a0-8da3-444e-b21a-2ed484347eba">
 </p>
 
-# WeatherAngularASPClient
-
+# Weather Forecast Randomizer
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.11.
 
 ## Development server
