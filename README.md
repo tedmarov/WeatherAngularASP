@@ -1,5 +1,5 @@
 <p align="center">
-![image](https://github.com/user-attachments/assets/7edd8bfd-38e7-45d3-a4ee-040d7303d4f5)
+<img src="https://github.com/user-attachments/assets/99fde7a0-8da3-444e-b21a-2ed484347eba">
 </p>
 
 # WeatherAngularASPClient
