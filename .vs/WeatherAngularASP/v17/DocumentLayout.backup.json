@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\tedma\\source\\repos\\WeatherAngularASP\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FF21ECC9-4450-4B6F-8327-65977D3E4474}|weatherangularasp.client\\weatherangularasp.client.esproj|c:\\users\\tedma\\source\\repos\\weatherangularasp\\weatherangularasp.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF21ECC9-4450-4B6F-8327-65977D3E4474}|weatherangularasp.client\\weatherangularasp.client.esproj|solutionrelative:weatherangularasp.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABA12489-9C67-404A-81D8-3340F4E929B0}|WeatherAngularASP.Server\\WeatherAngularASP.Server.csproj|c:\\users\\tedma\\source\\repos\\weatherangularasp\\weatherangularasp.server\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABA12489-9C67-404A-81D8-3340F4E929B0}|WeatherAngularASP.Server\\WeatherAngularASP.Server.csproj|solutionrelative:weatherangularasp.server\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FF21ECC9-4450-4B6F-8327-65977D3E4474}|weatherangularasp.client\\weatherangularasp.client.esproj|c:\\users\\tedma\\source\\repos\\weatherangularasp\\weatherangularasp.client\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{FF21ECC9-4450-4B6F-8327-65977D3E4474}|weatherangularasp.client\\weatherangularasp.client.esproj|solutionrelative:weatherangularasp.client\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     }
@@ -14,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,13 +34,39 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\tedma\\source\\repos\\WeatherAngularASP\\WeatherAngularASP.Server\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "WeatherAngularASP.Server\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\tedma\\source\\repos\\WeatherAngularASP\\WeatherAngularASP.Server\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "WeatherAngularASP.Server\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T01:21:26.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "app.component.html",
+              "DocumentMoniker": "C:\\Users\\tedma\\source\\repos\\WeatherAngularASP\\weatherangularasp.client\\src\\app\\app.component.html",
+              "RelativeDocumentMoniker": "weatherangularasp.client\\src\\app\\app.component.html",
+              "ToolTip": "C:\\Users\\tedma\\source\\repos\\WeatherAngularASP\\weatherangularasp.client\\src\\app\\app.component.html*",
+              "RelativeToolTip": "weatherangularasp.client\\src\\app\\app.component.html*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-01-11T01:13:42.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "app.component.ts",
               "DocumentMoniker": "C:\\Users\\tedma\\source\\repos\\WeatherAngularASP\\weatherangularasp.client\\src\\app\\app.component.ts",
               "RelativeDocumentMoniker": "weatherangularasp.client\\src\\app\\app.component.ts",
               "ToolTip": "C:\\Users\\tedma\\source\\repos\\WeatherAngularASP\\weatherangularasp.client\\src\\app\\app.component.ts",
               "RelativeToolTip": "weatherangularasp.client\\src\\app\\app.component.ts",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
               "WhenOpened": "2025-01-11T00:45:09.952Z",
               "EditorCaption": ""
