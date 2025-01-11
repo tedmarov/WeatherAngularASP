@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WeatherAngularASP.Server.props" />
+</Project>
