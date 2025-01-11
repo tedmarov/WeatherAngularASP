@@ -1,3 +1,7 @@
+<p align="center">
+![image](https://github.com/user-attachments/assets/7edd8bfd-38e7-45d3-a4ee-040d7303d4f5)
+</p>
+
 # WeatherAngularASPClient
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.11.
